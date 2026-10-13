@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7C5CFF"/><stop offset=".5" stop-color="#FF4D8D"/><stop offset="1" stop-color="#FFB703"/></linearGradient></defs>
+<style>@keyframes f1{0%,100%{transform:translate(0,0)}50%{transform:translate(18px,-16px)}}@keyframes f2{0%,100%{transform:translate(0,0)}50%{transform:translate(-20px,14px)}}@keyframes sp{to{transform:rotate(360deg)}}.a{animation:f1 6s ease-in-out infinite}.c{animation:f2 7s ease-in-out infinite}.d{animation:f1 5s ease-in-out infinite}.st{transform-origin:880px 90px;animation:sp 10s linear infinite}</style>
+<rect x="10" y="10" width="980" height="300" rx="32" fill="url(#g)"/>
+<g opacity=".95"><circle class="a" cx="520" cy="250" r="40" fill="#FFD60A" stroke="#1b1b1b" stroke-width="4"/><rect class="c" x="700" y="200" width="90" height="90" rx="22" fill="#6EE7B7" stroke="#1b1b1b" stroke-width="4" transform="rotate(14 745 245)"/><circle class="d" cx="560" cy="60" r="22" fill="#fff" stroke="#1b1b1b" stroke-width="4"/></g>
+<g class="st"><path d="M880 40l14 36 38 4-29 25 9 38-32-21-32 21 9-38-29-25 38-4z" fill="#fff" stroke="#1b1b1b" stroke-width="4" stroke-linejoin="round"/></g>
+<text x="60" y="150" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="84" font-weight="900" fill="#fff" stroke="#1b1b1b" stroke-width="10" paint-order="stroke" stroke-linejoin="round">Nicco Cahya</text>
+<text x="64" y="200" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" font-weight="700" fill="#1b1b1b">I make web, mobile and AI stuff.</text>
+<g><rect x="64" y="226" width="300" height="42" rx="21" fill="#fff" stroke="#1b1b1b" stroke-width="4"/><text x="214" y="254" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="800" fill="#1b1b1b">Unair, Information Systems</text></g>
+</svg>
+
+

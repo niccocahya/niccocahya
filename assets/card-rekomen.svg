@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230">
+<style>@keyframes spin{to{transform:rotate(360deg)}}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}.s{transform-origin:418px 54px;animation:spin 8s linear infinite}.b{animation:bob 3s ease-in-out infinite}</style>
+<rect x="14" y="14" width="456" height="206" rx="22" fill="#1b1b1b"/>
+<rect x="6" y="6" width="456" height="206" rx="22" fill="#FF8FB8" stroke="#1b1b1b" stroke-width="4"/>
+<g class="s"><path d="M418 26l8 20 21 2-16 14 5 21-18-12-18 12 5-21-16-14 21-2z" fill="#FFD60A" stroke="#1b1b1b" stroke-width="3" stroke-linejoin="round"/></g>
+<text x="28" y="52" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="800" fill="#1b1b1b" opacity=".55">02</text>
+<text x="28" y="92" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="32" font-weight="900" fill="#1b1b1b">RekOmen</text>
+<text x="28" y="124" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="500" fill="#1b1b1b">Surabaya food map. Collect points,</text>
+<text x="28" y="146" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="500" fill="#1b1b1b">and UMKM owners run their own stalls.</text>
+<g><rect x="28" y="164" width="57" height="28" rx="14" fill="#fff" stroke="#1b1b1b" stroke-width="3"/><text x="56.5" y="183" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1b1b1b">React</text></g><g><rect x="95" y="164" width="83" height="28" rx="14" fill="#fff" stroke="#1b1b1b" stroke-width="3"/><text x="136.5" y="183" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1b1b1b">Supabase</text></g><g><rect x="188" y="164" width="74" height="28" rx="14" fill="#fff" stroke="#1b1b1b" stroke-width="3"/><text x="225" y="183" text-anchor="middle" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="#1b1b1b">Leaflet</text></g>
+</svg>
+

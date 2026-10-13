@@ -8,8 +8,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Based_in-Surabaya-f2f2f2?style=flat-square&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Open_to-collabs-a8a8a8?style=flat-square&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/badge/Learning-DevOps_%26_cloud-6e6e6e?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Open_to-collabs-6e6e6e?style=flat-square&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Learning-DevOps_%26_cloud-3a3a3a?style=flat-square&labelColor=0a0a0a" />
 </p>
 
 <br/>
@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nicco-cahya-permana"><img src="https://img.shields.io/badge/LinkedIn-f2f2f2?style=flat-square&logo=linkedin&logoColor=0a0a0a" /></a>
-  <a href="mailto:niccocahya883@gmail.com"><img src="https://img.shields.io/badge/Email-a8a8a8?style=flat-square&logo=gmail&logoColor=0a0a0a" /></a>
+  <a href="https://linkedin.com/in/nicco-cahya-permana"><img src="https://img.shields.io/badge/LinkedIn-f2f2f2?style=flat-square" /></a>
+  <a href="mailto:niccocahya883@gmail.com"><img src="https://img.shields.io/badge/Email-6e6e6e?style=flat-square&logo=gmail&logoColor=f2f2f2" /></a>
   <a href="https://github.com/niccocahya?tab=repositories"><img src="https://img.shields.io/badge/Repos-2a2a2a?style=flat-square&logo=github&logoColor=f2f2f2" /></a>
 </p>

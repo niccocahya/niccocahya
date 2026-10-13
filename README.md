@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nicco-cahya-permana"><img src="https://img.shields.io/badge/LinkedIn-f2f2f2?style=flat-square" /></a>
-  <a href="mailto:niccocahya883@gmail.com"><img src="https://img.shields.io/badge/Email-6e6e6e?style=flat-square&logo=gmail&logoColor=f2f2f2" /></a>
-  <a href="https://github.com/niccocahya?tab=repositories"><img src="https://img.shields.io/badge/Repos-2a2a2a?style=flat-square&logo=github&logoColor=f2f2f2" /></a>
+  <a href="https://linkedin.com/in/nicco-cahya-permana"><img src="assets/btn-linkedin.svg" height="40" alt="LinkedIn" /></a>
+  <a href="mailto:niccocahya883@gmail.com"><img src="assets/btn-email.svg" height="40" alt="Email" /></a>
+  <a href="https://github.com/niccocahya?tab=repositories"><img src="assets/btn-repos.svg" height="40" alt="Repos" /></a>
 </p>

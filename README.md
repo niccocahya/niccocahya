@@ -120,9 +120,9 @@ const nic = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niccocahya/nicco-profile/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niccocahya/nicco-profile/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/niccocahya/nicco-profile/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niccocahya/niccocahya/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niccocahya/niccocahya/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/niccocahya/niccocahya/output/github-snake.svg" />
   </picture>
 </p>
 
